@@ -10,7 +10,12 @@ Substitute the values using the index value in the distance formula  ![formula](
 ### Step 3: 
 Print the value using the format with decial points 
 ### PROGRAM:
-```
+```py
+/*
+Program to find the Distance between two points
+Developed by: Sanjay Ragavendar M K
+RegisterNumber:  22009286
+*/
 l1=[10,6]
 l2=[4,2]
 dist=(((l2[0]-l1[0])**2)+((l2[1]-l1[1])**2))**0.5
