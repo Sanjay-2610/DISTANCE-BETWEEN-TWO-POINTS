@@ -6,7 +6,8 @@ To write a python program to find the distance two 2 points
 ### Step 1: 
 Intialize the points in the list
 ### Step 2: 
-Substitute the values using the index value in the distance formula  ![formula](/formula.png)
+Substitute the values using the index value in the distance formula  
+![formula](/formula.png)
 ### Step 3: 
 Print the value using the format with decial points 
 ### PROGRAM:
